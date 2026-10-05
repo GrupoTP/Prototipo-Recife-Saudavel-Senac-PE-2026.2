@@ -1,0 +1,10 @@
+{
+  "description": "Streamline healthcare access with a mobile app that enables patients to complete pre-triage and schedule appointments at partner clinics, enhancing convenience and reducing wait times.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
